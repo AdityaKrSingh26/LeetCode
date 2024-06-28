@@ -12,6 +12,7 @@ public:
         if (head == nullptr || head->next == nullptr)
             return nullptr;
 
+        bool loop = false;
         ListNode* slow = head;
         ListNode* fast = head;
         while (fast != nullptr && fast->next != nullptr) {
@@ -19,16 +20,20 @@ public:
             fast = fast->next->next;
 
             if (slow == fast)
-            {
-                slow = head;
-                while(slow != fast){
-                    slow = slow->next;
-                    fast = fast->next;
-                }
-                return slow;
+            {   
+                loop = true;
+                break;
             }
         }
-
-        return nullptr;
+        if(loop){
+            slow = head;
+            while(slow != fast){
+                slow = slow->next;
+                fast = fast->next;
+            }
+            return slow;
+        }
+        else
+            return nullptr;
     }
 };
