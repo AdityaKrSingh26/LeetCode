@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [2128-reverse-prefix-of-word](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Array
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2128-reverse-prefix-of-word](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
