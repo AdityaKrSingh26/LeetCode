@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1791-richest-customer-wealth](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
