@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1791-richest-customer-wealth](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2481-strictly-palindromic-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0078-subsets) |
+## Geometry
+|  |
+| ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
