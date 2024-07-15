@@ -131,4 +131,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
