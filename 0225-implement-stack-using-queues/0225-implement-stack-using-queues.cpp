@@ -6,12 +6,20 @@ public:
     MyStack() {}
     
     void push(int x) {
-        que2.push(x);
-        while(!que1.empty()){
-            que2.push(que1.front());
+        // using 1 queue
+        que1.push(x);
+        int n = que1.size(); 
+        for(int i=0; i<n-1; i++){
+            que1.push(que1.front());
             que1.pop();
         }
-        swap(que1, que2);
+        // using 2 queues
+        // que2.push(x);
+        // while(!que1.empty()){
+        //     que2.push(que1.front());
+        //     que1.pop();
+        // }
+        // swap(que1, que2);
     }
     
     int pop() {
