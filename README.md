@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2634-minimum-common-value](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2634-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2634-minimum-common-value](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2634-minimum-common-value) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2634-minimum-common-value](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2634-minimum-common-value) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## String
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2634-minimum-common-value](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2634-minimum-common-value) |
 ## Math
 |  |
 | ------- |
