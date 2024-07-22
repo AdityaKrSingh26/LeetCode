@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1582-design-browser-history) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
