@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0137-single-number-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1791-richest-customer-wealth) |
