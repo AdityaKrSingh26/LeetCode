@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0078-subsets) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
