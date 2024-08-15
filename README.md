@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [1582-design-browser-history](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0231-power-of-two) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0231-power-of-two) |
 ## Brainteaser
 |  |
