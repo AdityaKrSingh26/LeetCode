@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0231-power-of-two) |
 ## Brainteaser
 |  |
