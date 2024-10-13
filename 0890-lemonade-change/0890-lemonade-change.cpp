@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
-        int x_5 = 0, x_10=0;
+        int x_5 = 0, x_10 = 0;
         for (auto it : bills) {
             if (it == 5) {
                 x_5++;
