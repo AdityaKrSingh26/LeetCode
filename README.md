@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0078-subsets) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0678-valid-parenthesis-string) |
