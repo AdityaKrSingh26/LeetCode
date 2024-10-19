@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0455-assign-cookies) |
