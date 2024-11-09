@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2032-largest-odd-number-in-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Bit Manipulation
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2050-count-good-numbers) |
 ## Brainteaser
 |  |
 | ------- |
