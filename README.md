@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0054-spiral-matrix) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0503-next-greater-element-ii) |
