@@ -24,4 +24,31 @@ public:
         dfs(root, result);
         return result;
     }
+
+    // ----- Iterative ------
+    // vector<int> postorderTraversal(TreeNode* root) {
+    //     if (!root) return {}; // Return empty vector for an empty tree
+
+    //     vector<int> result;
+    //     stack<TreeNode*> stack1, stack2; // Two stacks for iterative postorder
+
+    //     stack1.push(root);
+    //     while (!stack1.empty()) {
+    //         TreeNode* node = stack1.top();
+    //         stack1.pop();
+    //         stack2.push(node);
+
+    //         // Push left and right children to stack1
+    //         if (node->left) stack1.push(node->left);
+    //         if (node->right) stack1.push(node->right);
+    //     }
+
+    //     // Stack2 contains nodes in reverse postorder
+    //     while (!stack2.empty()) {
+    //         result.push_back(stack2.top()->val);
+    //         stack2.pop();
+    //     }
+
+    //     return result;
+    // }
 };
