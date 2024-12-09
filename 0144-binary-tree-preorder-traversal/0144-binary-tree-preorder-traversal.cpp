@@ -24,4 +24,25 @@ public:
         preorder(root, res);
         return res;      
     }
+
+    //  ========= Preorder ========
+    // vector<int> preorderTraversal(TreeNode* root) {
+    //     if (!root) return {}; // Return empty for an empty tree
+
+    //     vector<int> result;
+    //     stack<TreeNode*> s;
+    //     s.push(root);
+
+    //     while (!s.empty()) {
+    //         TreeNode* node = s.top();
+    //         s.pop();
+    //         result.push_back(node->val);
+
+    //         // Push right child first so that left child is processed first
+    //         if (node->right) s.push(node->right);
+    //         if (node->left) s.push(node->left);
+    //     }
+
+    //     return result;
+    // }
 };
