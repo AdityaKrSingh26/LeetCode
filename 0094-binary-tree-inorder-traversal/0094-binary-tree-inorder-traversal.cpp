@@ -24,4 +24,28 @@ public:
         inorder(root, res);
         return res;
     }
+
+    // ========= Iterative ========= 
+    // vector<int> inorderTraversal(TreeNode* root) {
+    //     vector<int> result;
+    //     stack<TreeNode*> s;
+    //     TreeNode* curr = root;
+
+    //     while (curr || !s.empty()) {
+    //         // Traverse to the leftmost node
+    //         while (curr) {
+    //             s.push(curr);
+    //             curr = curr->left;
+    //         }
+    //         // Process the top node
+    //         curr = s.top();
+    //         s.pop();
+    //         result.push_back(curr->val);
+
+    //         // Visit the right subtree
+    //         curr = curr->right;
+    //     }
+
+    //     return result;
+    // }
 };
