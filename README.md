@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0242-valid-anagram) |
@@ -209,12 +210,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Geometry
 |  |
 | ------- |
