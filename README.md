@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0547-number-of-provinces) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
