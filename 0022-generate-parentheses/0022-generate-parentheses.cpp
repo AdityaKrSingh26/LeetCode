@@ -5,17 +5,15 @@ public:
             v.push_back(str);
             return;
         }
-        if (open != 0) 
-            f(v, open - 1, close, str+"(");
+        if (open != 0)
+            f(v, open - 1, close, str + "(");
         if (close > open)
-            f(v, open, close - 1, str+")");
+            f(v, open, close - 1, str + ")");
         return;
     }
     vector<string> generateParenthesis(int n) {
         vector<string> v;
-        int open = n, close = n;
-        string str = "";
-        f(v, open, close, str); 
+        f(v, n, n, "");
         return v;
     }
 };
