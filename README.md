@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0967-minimum-falling-path-sum](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0079-word-search) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0967-minimum-falling-path-sum](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0213-house-robber-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0967-minimum-falling-path-sum](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Backtracking
 |  |
 | ------- |
