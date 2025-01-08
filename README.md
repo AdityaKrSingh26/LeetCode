@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1559-cherry-pickup-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1559-cherry-pickup-ii) |
 | [1582-design-browser-history](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1582-design-browser-history) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1524-string-matching-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
