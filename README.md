@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2634-minimum-common-value](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2634-minimum-common-value) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bucket Sort
 |  |
