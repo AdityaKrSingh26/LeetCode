@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0952-word-subsets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2634-minimum-common-value](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2634-minimum-common-value) |
 ## Linked List
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-max-increase-to-keep-city-skyline](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0952-word-subsets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
