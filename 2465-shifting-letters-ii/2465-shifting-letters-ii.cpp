@@ -1,5 +1,6 @@
 class Solution {
 public:
+// =========== Diffrence array ============
     string shiftingLetters(string s, vector<vector<int>>& shifts) {
         int n = s.size();
         vector<int> diff(n + 1, 0);
