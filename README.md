@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2634-minimum-common-value](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2634-minimum-common-value) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
 | ------- |
