@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Stack
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1582-design-browser-history) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
