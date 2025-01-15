@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0260-single-number-iii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2509-minimize-xor](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2509-minimize-xor) |
 ## Stack
 |  |
 | ------- |
