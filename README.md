@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2634-minimum-common-value](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2634-minimum-common-value) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2509-minimize-xor](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Recursion
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Divide and Conquer
 |  |
 | ------- |
