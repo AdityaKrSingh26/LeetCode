@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0735-asteroid-collision) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0937-online-stock-span) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0733-flood-fill) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
