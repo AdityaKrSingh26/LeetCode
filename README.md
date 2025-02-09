@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2634-minimum-common-value](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2634-minimum-common-value) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2448-count-number-of-bad-pairs](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2050-count-good-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2448-count-number-of-bad-pairs](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
