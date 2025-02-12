@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1582-design-browser-history) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3447-clear-digits](https://github.com/AdityaKrSingh26/LeetCode/tree/master/3447-clear-digits) |
