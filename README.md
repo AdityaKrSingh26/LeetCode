@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AdityaKrSingh26/LeetCode/tree/master/0231-power-of-two) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/AdityaKrSingh26/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2032-largest-odd-number-in-string](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/AdityaKrSingh26/LeetCode/tree/master/2050-count-good-numbers) |
